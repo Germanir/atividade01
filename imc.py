@@ -1,4 +1,4 @@
-print ("Bem vindo a Calculadora de IMC")
+print ("## Bem-vindo a Calculadora de IMC ##")
 
 pergunta_nome = input("Qual é o seu nome? " )
 nome = ("Olá" , pergunta_nome)
